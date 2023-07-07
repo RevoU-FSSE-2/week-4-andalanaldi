@@ -12,12 +12,12 @@ body {
 
 @font-face{
     font-family: Bangers;
-    src: url(Bangers-Regular.ttf);
+    src: url(fonts/Bangers-Regular.ttf);
 }
 
 @font-face{
     font-family: Caprasiomo;
-    src: url(Caprasimo-Regular.ttf);
+    src: url(fonts/Caprasimo-Regular.ttf);
 }
 
 nav {
